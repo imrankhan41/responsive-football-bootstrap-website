@@ -1,0 +1,89 @@
+  
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* common section */
+html,body{
+    overflow-x: hidden;
+}
+body{
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.header-bg{
+    background: #2D25A0;
+    margin-bottom: 70px;
+}
+.nav-color{
+    font-weight: 500px;
+    margin-right: 36px;
+}
+.button-nav{
+    font-weight: 500px;
+    color: white;
+    background: #E02C6D;
+    border: none;
+    outline: none;
+    padding: 10px 24px;
+}
+.hero-header {
+    font-weight: bold;
+    font-size: 64px;
+    color: #FFFFFF;
+    margin-top: 121px;
+    margin-bottom: 27px;
+}
+.button-nav-one{
+    font-weight: 500px;
+    color: white;
+    background: #E02C6D;
+    border: none;
+    outline: none;
+    padding: 10px 40px;
+    margin-bottom: 160px;
+}
+.card-main{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    padding: 15px;
+    border-radius: 20px;
+}
+.body-title{
+    color: #18191F;
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 18px;
+    margin-bottom: 10px;
+}
+.header-section{
+    margin-top: 179px;
+}
+.hero-header-one{
+    font-weight: bold;
+    font-size: 64px;
+    color: #0A0826;
+    margin-top: 121px;
+    margin-bottom: 27px;
+}
+.hero-header-para{
+    color: #6C6C6C;
+}
+.img-fluid{
+    width: 483.87px;
+height: 110px;
+}
+a .fab{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 25px;
+}
+.fab{
+    font-size: 32px;
+    color: white;
+    background-color: rgb(161, 155, 155);
+    
+}
